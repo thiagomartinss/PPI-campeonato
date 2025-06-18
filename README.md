@@ -15,6 +15,8 @@ Trabalho de fechamento de semestre do curso de ADS da FIPP - matéria programaç
 ## PARA EXECUÇÃO INSTALE OS SEGUINTES PACOTES
 - npm install
 - npm install express
+- npm install express-session
+- npm install cookie-parser
 
 ## AUTOR
 - Thiago Martins dos Santos Palancio
