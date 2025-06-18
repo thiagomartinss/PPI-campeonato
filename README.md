@@ -22,3 +22,4 @@ Trabalho de fechamento de semestre do curso de ADS da FIPP - matéria programaç
 - Thiago Martins dos Santos Palancio
 - RA: 10442428662
 - Curso: Análise e desenvolvimento de sistemas
+- Link vercel: https://ppi-campeonato.vercel.app
