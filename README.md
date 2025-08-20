@@ -19,7 +19,6 @@ Trabalho de fechamento de semestre do curso de ADS da FIPP - matéria programaç
 - npm install cookie-parser
 
 ## AUTOR
-- Thiago Martins dos Santos Palancio
-- RA: 10442428662
+- Thiago Martins dos Santos
 - Curso: Análise e desenvolvimento de sistemas
 - Link vercel: https://ppi-campeonato.vercel.app
